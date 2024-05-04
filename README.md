@@ -9,7 +9,7 @@ I'm a first-year Computer Engineering student passionate about technology and ea
 - Programming Languages: Python, Java, C++, C, C#
 - Web Development: -
 - Frameworks & Libraries: -
-- Tools & Technologies: Git, VS Code, Visual Studio
+- Tools & Technologies: Git, VS Code, Visual Studio, CMake, .NET, Maven
 - Operating Systems: Windows, Linux
 
 ## Education
