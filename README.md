@@ -16,7 +16,7 @@ I'm a first-year Computer Engineering student passionate about technology and ea
 
 - **Bachelor of Science in Computer Engineering**
   Recep Tayyip Erdoğan University, Rize, Turkey
-  _Expected Graduation: [June 2027]_
+  _Expected Graduation: June 2027
 
 ## Projects
 
