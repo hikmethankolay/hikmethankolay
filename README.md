@@ -31,6 +31,7 @@ I'm a first-year Computer Engineering student passionate about technology and ea
 
 - Email: [hikmethan.kolay@gmail.com](mailto:hikmethan.kolay@gmail.com)
 - LinkedIn: [Hikmethan Kolay](https://www.linkedin.com/in/hikmethan-kolay/)
+- X: [@Hikmethan_Kolay](https://x.com/Hikmethan_Kolay)
 - Instagram: [@hikmet_kolay_53](https://www.instagram.com/hikmet_kolay_53/)
 
 Feel free to reach out to me if you have any questions or just want to connect!
