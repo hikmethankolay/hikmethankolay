@@ -7,7 +7,7 @@ I'm a first-year Computer Engineering student passionate about technology and ea
 ## Skills
 
 - Programming Languages: Python, Java, C++, C, C#
-- Web Development: -
+- Web Development: HTML, CSS
 - Frameworks & Libraries: -
 - Tools & Technologies: Git, VS Code, Visual Studio, CMake, .NET, Maven
 - Operating Systems: Windows, Linux
