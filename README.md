@@ -2,8 +2,6 @@
 
 I'm a first-year Computer Engineering student passionate about technology and eager to learn and contribute to exciting projects.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hikmethankolay&show_icons=true)
-
 ## Skills
 
 - Programming Languages: Python, Java, C++, C, C#
