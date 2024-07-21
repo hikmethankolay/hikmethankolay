@@ -6,7 +6,7 @@ I'm a first-year Computer Engineering student passionate about technology and ea
 
 - Programming Languages: Python, Java, C++, C, C#
 - Web Development: HTML, CSS, JavaScript
-- Frameworks & Libraries: -
+- Frameworks & Libraries: React
 - Tools & Technologies: Git, VS Code, Visual Studio, CMake, .NET, Maven
 - Operating Systems: Windows, Linux
 
