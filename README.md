@@ -1,35 +1,44 @@
-# Hello, I'm Hikmethan Kolay 👋
+# Hi there, I'm Hikmethan KOLAY 👋
 
-I'm a first-year Computer Engineering student passionate about technology and eager to learn and contribute to exciting projects.
+I'm a second-year Computer Engineering student passionate about technology and eager to learn and contribute to exciting projects.
 
-## Skills
+## 📊 GitHub Stats
 
-- Programming Languages: Python, Java, C++, C, C#, JavaScript
-- Web Development: HTML, CSS
-- Frameworks & Libraries: React
-- Tools & Technologies: Git, VS Code, Visual Studio, CMake, .NET, Maven
-- Operating Systems: Windows, Linux
+![Hikmethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikmethankolay&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikmethankolay&layout=compact&theme=radical)
 
-## Education
+## 🛠️ Skills
 
-- **Bachelor of Science in Computer Engineering**
-  Recep Tayyip Erdoğan University, Rize, Turkey
-  _Expected Graduation: June 2027_
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-## Projects
+### Web Development
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
-- **Unfortunately there is nothing to write here, at least for now**
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-## Work Experience
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=Visual%20Studio)
+![CMake](https://img.shields.io/badge/-CMake-000?&logo=CMake)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+![Maven](https://img.shields.io/badge/-Maven-000?&logo=Apache%20Maven)
 
-- **Unfortunately there is nothing to write here, at least for now**
-  
+### Operating Systems
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-## Contact Me
+## 📫 Contact Me
 
 - Email: [hikmethan.kolay@gmail.com](mailto:hikmethan.kolay@gmail.com)
 - LinkedIn: [Hikmethan Kolay](https://www.linkedin.com/in/hikmethan-kolay/)
 - X: [@Hikmethan_Kolay](https://x.com/Hikmethan_Kolay)
 - Instagram: [@hikmethan.kolay](https://www.instagram.com/hikmethan.kolay/)
-
-Feel free to reach out to me if you have any questions or just want to connect!
