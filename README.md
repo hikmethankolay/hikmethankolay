@@ -13,6 +13,7 @@ I'm a second-year Computer Engineering student passionate about technology and e
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Web Development
