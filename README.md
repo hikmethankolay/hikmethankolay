@@ -22,6 +22,7 @@ I'm a second-year Computer Engineering student passionate about technology and e
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?&logo=express)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
