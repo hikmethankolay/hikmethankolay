@@ -30,6 +30,7 @@ I'm a second-year Computer Engineering student passionate about technology and e
 ![CMake](https://img.shields.io/badge/-CMake-000?&logo=CMake)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![Maven](https://img.shields.io/badge/-Maven-000?&logo=Apache%20Maven)
+![NodeJS](https://img.shields.io/badge/node.js-%3E%3D%2021-green?logo=node.js&logoColor=white)
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
