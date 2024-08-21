@@ -37,6 +37,18 @@ I'm a second-year Computer Engineering student passionate about technology and e
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+## 🏫 Education
+
+- **University:** Recep Tayyip Erdooğan University
+- **Program:** Bachelor of Science in Computer Engineering
+- **Year:** Second Year (Expected Graduation: 2027)
+
+## 💾 Database Experience
+
+- **Databases:** MySQL
+- **Projects:**
+  - Developed "SafeScript: Automated Medication Prescriptions for Doctors" using MySQL to manage Patient and Medication data.
+
 ## 📫 Contact Me
 
 - Email: [hikmethan.kolay@gmail.com](mailto:hikmethan.kolay@gmail.com)
