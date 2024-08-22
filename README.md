@@ -46,8 +46,6 @@ I'm a second-year Computer Engineering student passionate about technology and e
 ## 💾 Database Experience
 
 - **Databases:** MySQL
-- **Projects:**
-  - Developed "SafeScript: Automated Medication Prescriptions for Doctors" using MySQL to manage Patient and Medication data.
 
 ## 📫 Contact Me
 
