@@ -24,6 +24,9 @@ I'm a second-year Computer Engineering student passionate about technology and e
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?&logo=express)
 
+## 💾 Database Experience
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
@@ -42,10 +45,6 @@ I'm a second-year Computer Engineering student passionate about technology and e
 - **University:** Recep Tayyip Erdooğan University
 - **Program:** Bachelor of Science in Computer Engineering
 - **Year:** Second Year (Expected Graduation: 2027)
-
-## 💾 Database Experience
-
-- **Databases:** MySQL
 
 ## 📫 Contact Me
 
