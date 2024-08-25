@@ -24,7 +24,7 @@ I'm a second-year Computer Engineering student passionate about technology and e
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?&logo=express)
 
-## 💾 Database Experience
+## 💾 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### Tools & Technologies
