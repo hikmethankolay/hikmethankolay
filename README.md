@@ -30,7 +30,6 @@ I'm a second-year Computer Engineering student passionate about technology and e
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=Visual%20Studio)
 ![CMake](https://img.shields.io/badge/-CMake-000?&logo=CMake)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![Maven](https://img.shields.io/badge/-Maven-000?&logo=Apache%20Maven)
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?logo=node.js&logoColor=white)
 
