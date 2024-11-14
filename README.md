@@ -4,8 +4,8 @@ I'm a second-year Computer Engineering student passionate about technology and e
 
 ## 📊 GitHub Stats
 
-![hikmethankolay's Stats](https://github-readme-stats.vercel.app/api?username=hikmethankolay&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![hikmethankolay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hikmethankolay&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![hikmethankolay's Stats](https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api?username=hikmethankolay&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![hikmethankolay's Top Languages](https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/top-langs/?username=hikmethankolay&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🛠️ Skills
 
