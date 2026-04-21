@@ -15,6 +15,7 @@ I'm a third-year Computer Engineering student passionate about technology and ea
 
 ### Hardware Description Languages
 ![VHDL](https://img.shields.io/badge/VHDL-008080?style=for-the-badge&logo=vhdl&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white)
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,6 +37,8 @@ I'm a third-year Computer Engineering student passionate about technology and ea
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
 
 
 ### Operating Systems
@@ -46,7 +49,7 @@ I'm a third-year Computer Engineering student passionate about technology and ea
 
 - **University:** Recep Tayyip Erdooğan University
 - **Program:** Bachelor of Science in Computer Engineering
-- **Year:** Second Year (Expected Graduation: 2027)
+- **Year:** Third Year (Expected Graduation: 2027)
 
 ## 📫 Contact Me
 
