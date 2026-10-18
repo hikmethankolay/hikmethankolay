@@ -1,21 +1,4 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f4e79&height=170&section=header&text=Hikmethan%20Kolay&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20%C2%B7%20RISC-V%20%26%20FPGA%20%C2%B7%20Backend%20%C2%B7%20AI%20Data&descSize=16&descAlignY=58" alt="Hikmethan Kolay: Computer Engineering, RISC-V and FPGA, Backend, AI Data" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/hikmethankolay/Timur-RV32IMC">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=I+built+a+RISC-V+microcontroller+from+scratch;Backend+developer+%E2%80%94+Java+%26+Spring+Boot;Preparing+data+for+AI+models;Open+to+software%2C+AI+and+embedded+roles" alt="I built a RISC-V microcontroller from scratch. Backend developer, Java and Spring Boot. Preparing data for AI models. Open to software, AI and embedded roles." />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hikmethan-kolay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hikmethan.kolay@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/Hikmethan_Kolay"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/hikmethan.kolay/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hikmethankolay.hikmethankolay&left_text=Profile%20views&left_color=%23555555&right_color=%231f4e79" alt="Profile views" />
-</p>
+<!-- Header --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f4e79&height=170&section=header&text=Hikmethan%20Kolay&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20%C2%B7%20RISC-V%20and%20FPGA%20%C2%B7%20Backend%20%C2%B7%20AI%20Data&descSize=16&descAlignY=58" alt="Hikmethan Kolay: Computer Engineering, RISC-V and FPGA, Backend, AI Data" width="100%" /> </p> <p align="center"> <a href="https://github.com/hikmethankolay/Timur-RV32IMC"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=I+built+a+RISC-V+microcontroller+from+scratch;Backend+developer+%E2%80%94+Java+%26+Spring+Boot;Preparing+data+for+AI+models;Open+to+software%2C+AI+and+embedded+roles" alt="I built a RISC-V microcontroller from scratch. Backend developer, Java and Spring Boot. Preparing data for AI models. Open to software, AI and embedded roles." /> </a> </p> <p align="center"> <a href="https://www.linkedin.com/in/hikmethan-kolay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:hikmethan.kolay@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://x.com/Hikmethan_Kolay"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a> <a href="https://www.instagram.com/hikmethan.kolay/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a> <img src="https://visitor-badge.laobi.icu/badge?page_id=hikmethankolay.hikmethankolay&left_text=Profile%20views&left_color=%23555555&right_color=%231f4e79" alt="Profile views" /> </p>
 
 ## 👋 About me
 
