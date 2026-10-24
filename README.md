@@ -29,6 +29,12 @@ endmodule
       <img src="https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/pin/?username=hikmethankolay&repo=Timur-RV32IMC&hide_border=true" alt="Timur-RV32IMC repository card" />
     </picture>
   </a>
+  <a href="https://github.com/hikmethankolay/spring-boot-backend-template">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/pin/?username=hikmethankolay&repo=spring-boot-backend-template&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/pin/?username=hikmethankolay&repo=spring-boot-backend-template&hide_border=true" alt="spring-boot-backend-template repository card" />
+    </picture>
+  </a>
   <a href="https://github.com/hikmethankolay/Turk-OS">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/pin/?username=hikmethankolay&repo=Turk-OS&theme=github_dark&hide_border=true" />
@@ -43,6 +49,13 @@ endmodule
 - AHB-Lite bus with CPU and DMA masters, APB peripherals for UART, GPIO and **640×480 VGA**
 - **41 testbenches** checked against a Python reference model, run in CI on every push
 
+**[spring-boot-backend-template](https://github.com/hikmethankolay/spring-boot-backend-template)**: a secure, tested starting point for Spring Boot REST backends
+- Auth already done: JWTs with rotating refresh tokens and reuse detection, **two-factor authentication**, GitHub and Google login, device sessions, lockout and rate limiting
+- Production defaults: Redis caching, an email outbox with retries, metrics, alerts, a Grafana dashboard and tracing
+- **210+ tests** against real PostgreSQL and Redis containers, plus architecture rules, mutation testing, a k6 load test and an image vulnerability scan in CI
+- Signed multi-arch Docker images with an SBOM; Kubernetes manifests pass the `restricted` Pod Security Standard
+- Built with Spring Boot 4.1, Java 25, PostgreSQL 18 and Redis 8
+
 **[Turk-OS](https://github.com/hikmethankolay/Turk-OS)**: a small UNIX-like OS in C and NASM for 32-bit x86, with planned RISC-V and ARM ports *(just started)*
 
 <details>
@@ -50,7 +63,6 @@ endmodule
 <br>
 
 - [8-bit computer in VHDL](https://github.com/hikmethankolay/8-bit-computer-with-vhdl): CPU, ALU, control unit and memories with a testbench
-- [User authentication system with Spring Boot](https://github.com/hikmethankolay/user-auth-system-with-spring-boot)
 - [Conway's Game of Life](https://github.com/hikmethankolay/conways-game-of-life)
 
 </details>
