@@ -16,7 +16,7 @@ endmodule
 ```
 
 - 🔭 **Working on:** data infrastructure for model training in a TÜBİTAK 1001 research project
-- 🌱 **Learning by building:** [Turk-OS](https://github.com/hikmethankolay/Turk-OS), a UNIX-like operating system written from scratch
+- 🌱 **Learning by building:** [Kagan](https://github.com/hikmethankolay/kagan-os), a UNIX-like operating system written from scratch
 - 💬 **Ask me about:** CPU pipelines, AMBA buses, FPGA timing, Spring Boot APIs
 - 📫 **Reach me:** [hikmethan.kolay@gmail.com](mailto:hikmethan.kolay@gmail.com)
 
@@ -35,10 +35,10 @@ endmodule
       <img src="https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/pin/?username=hikmethankolay&repo=spring-boot-backend-template&hide_border=true" alt="spring-boot-backend-template repository card" />
     </picture>
   </a>
-  <a href="https://github.com/hikmethankolay/Turk-OS">
+  <a href="https://github.com/hikmethankolay/kagan-os">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/pin/?username=hikmethankolay&repo=Turk-OS&theme=github_dark&hide_border=true" />
-      <img src="https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/pin/?username=hikmethankolay&repo=Turk-OS&hide_border=true" alt="Turk-OS repository card" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/pin/?username=hikmethankolay&repo=kagan-os&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats-hikmethan-kolays-projects.vercel.app/api/pin/?username=hikmethankolay&repo=kagan-os&hide_border=true" alt="kagan-os repository card" />
     </picture>
   </a>
 </p>
@@ -56,7 +56,7 @@ endmodule
 - Signed multi-arch Docker images with an SBOM; Kubernetes manifests pass the `restricted` Pod Security Standard
 - Built with Spring Boot 4.1, Java 25, PostgreSQL 18 and Redis 8
 
-**[Turk-OS](https://github.com/hikmethankolay/Turk-OS)**: a small UNIX-like OS in C and NASM for 32-bit x86, with planned RISC-V and ARM ports *(just started)*
+**[Turk-OS](https://github.com/hikmethankolay/kagan-os)**: a small UNIX-like OS in C and NASM for 32-bit x86, with planned RISC-V and ARM ports *(just started)*
 
 <details>
 <summary><b>More projects</b></summary>
