@@ -56,7 +56,7 @@ endmodule
 - Signed multi-arch Docker images with an SBOM; Kubernetes manifests pass the `restricted` Pod Security Standard
 - Built with Spring Boot 4.1, Java 25, PostgreSQL 18 and Redis 8
 
-**[Turk-OS](https://github.com/hikmethankolay/kagan-os)**: a small UNIX-like OS in C and NASM for 32-bit x86, with planned RISC-V and ARM ports *(just started)*
+**[Kagan](https://github.com/hikmethankolay/kagan-os)**: a small UNIX-like OS in C and NASM for 32-bit x86, with planned RISC-V and ARM ports *(just started)*
 
 <details>
 <summary><b>More projects</b></summary>
